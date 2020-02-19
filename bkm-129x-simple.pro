@@ -1,4 +1,4 @@
-update=2020-02-01T23:28:18 CET
+update=2020-02-19T19:06:14 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -66,4 +66,4 @@ LibName34=arduino-nano-v3
 LibName35=adg734
 LibName36=adg1611
 LibName37=dtc144eka
-LibName38=mic3940
+LibName38=mic3490
