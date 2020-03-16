@@ -33,4 +33,10 @@ BVM-D9
 
 ---------
 
+Board revision history:
+
+A: Changed R9 to 0 Ohm / jumper
+
+---------
+
 (2020) Martin Hejnfelt (martin@hejnfelt.com)
