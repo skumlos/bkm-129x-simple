@@ -19,15 +19,16 @@ Thanks goes out to Nick Carney and Bob from RetroRGB for rigorious testing!
 Compatibility list and tested consoles (including issues):
 
 PVM-9L2
-- SNES (NTSC, CSYNC)
-- Mega Drive 2 (PAL, 60 Hz modded with DFO for "true" 60 Hz, CSYNC)
-- Master System 1 (PAL, 60 Hz modded with DFO for "true" 60 Hz, CSYNC)
+- SNES (US region, CSYNC)
+- Mega Drive 2 (EU region, 60 Hz modded with DFO for "true" 60 Hz, CSYNC)
+- Master System 1 (EU region, 60 Hz modded with DFO for "true" 60 Hz, CSYNC)
 
 BVM-D14
 - Genesis 1 (60 Hz, CSYNC)
 
 BVM-D9
 - Nomad (60 Hz, Triple bypass modded, CSYNC)
+- SNES (US region, CSYNC)
 - Master System (60 Hz, sync issues like original 129X)
 - TurboGrafx/PC-Engine (60 Hz, sync issues like original 129X)
 
