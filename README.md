@@ -22,6 +22,7 @@ PVM-9L2
 - SNES (US region, CSYNC)
 - Mega Drive 2 (EU region, 60 Hz modded with DFO for "true" 60 Hz, CSYNC)
 - Master System 1 (EU region, 60 Hz modded with DFO for "true" 60 Hz, CSYNC)
+- PC-Engine (White, with THS7374 external RGB amp, CSYNC)
 
 BVM-D14
 - Genesis 1 (60 Hz, CSYNC)
