@@ -1,6 +1,6 @@
 A simplified version of the BKM-129X compatible board.
 
-Revision A
+Revision B
 
 Should be able to be created at $25-30, with the ADG1611 being the most expensive component.
 
@@ -37,8 +37,14 @@ BVM-D9
 
 Board revision history:
 
+B: Added R29, R30, R31 to compensate for overbrightness
+
 A: Changed R9 to 0 Ohm / jumper
 
 ---------
 
-(2020) Martin Hejnfelt (martin@hejnfelt.com)
+Copyright © 2020 Martin Hejnfelt <martin@hejnfelt.com>
+This work is free. You can redistribute it and/or modify it under the
+terms of the Do What The Fuck You Want To Public License, Version 2,
+as published by Sam Hocevar. See the LICENSE file for more details.
+
