@@ -9,7 +9,7 @@ Id,Designator,Package,Quantity,Designation,Supplier and ref
 8,Q1,SC-59_Handsoldering,1,DTC144EKA,
 9,"R1,R18",R_0805_HandSoldering,2,10K,
 10,"R2,R3,R4,R5,R14,R15,R16,R17",R_0805_HandSoldering,8,R,
-11,"R6,R7,R8",R_0805_HandSoldering,3,150R,
+11,"R6,R7,R8,R29,R30,R31",R_0805_HandSoldering,6,150R,
 12,R9,R_0805_HandSoldering,1,0R,
 13,"R10,R11,R12,R13",R_0805_HandSoldering,4,75R,
 14,"R20,R22,R25,R27",R_0805_HandSoldering,4,100K,
