@@ -37,6 +37,8 @@ BVM-D9
 
 Board revision history:
 
+C: Rearranged some components for nicer layout
+
 B: Added R29, R30, R31 to compensate for overbrightness
 
 A: Changed R9 to 0 Ohm / jumper
