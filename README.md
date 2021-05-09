@@ -1,7 +1,5 @@
 A simplified version of the BKM-129X compatible board.
 
-Revision B
-
 Should be able to be created at $25-30, with the ADG1611 being the most expensive component.
 
 This requires an Arduino Nano v3 loaded with the latest BKM-129X-MCU code from https://github.com/skumlos/bkm-129x-mcu
@@ -36,6 +34,8 @@ BVM-D9
 ---------
 
 Board revision history:
+
+D: Fix THS7374 filter bypass, move to Kicad 5
 
 C: Rearranged some components for nicer layout
 
